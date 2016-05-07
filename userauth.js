@@ -143,7 +143,7 @@ $(function(){
         
       }else{
         alert("Logged in with "+user.uid);
-        window.location.href = "roster3101.php";
+        window.location.href = "roster.php";
       }
     })
     
